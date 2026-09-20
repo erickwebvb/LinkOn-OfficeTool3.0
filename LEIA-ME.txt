@@ -1,0 +1,26 @@
+LINKON OFFICE TOOL v3.0.3 — IDENTIDADE LINKON
+
+Interface redesenhada com a identidade visual da logo LinkOn: fundo escuro, magenta neon, branco e detalhes em vinho.
+
+RECURSOS
+- Atendimento automático
+- Diagnóstico do Office
+- Remoção de versões antigas
+- Instalação do Office LTSC 2024
+- Instalação do Microsoft 365
+- Reparo do Office
+- Verificação de Office/Windows
+- Ativação somente com chave/licença válida
+- Download/atualização da Office Deployment Tool
+- Resumo do computador na interface
+- Logs em C:\LinkOnOffice\Logs
+
+EXECUÇÃO
+1. Execute como Administrador.
+2. Escolha a opção desejada.
+3. Leia as confirmações antes de remover ou instalar componentes.
+
+IMPORTANTE
+- O pacote não contém crack, bypass ou ativador de terceiros.
+- O Office LTSC 2024 requer licença compatível.
+- Políticas corporativas, internet, antivírus, espaço em disco e estado do Windows podem afetar a instalação.
